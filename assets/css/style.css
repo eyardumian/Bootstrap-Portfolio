@@ -1,0 +1,143 @@
+* {
+  padding: 0;
+  margin: 0px;
+  border-style: none;
+  border-width: 0px;
+}
+
+strong {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+img.linkLogo {
+  width: 57px;
+  height: 57px;
+}
+
+#localLinks {
+  width: 660px;
+  float: left;
+  text-align: right;
+  padding-top: 30px;
+  padding-right: 10px;
+}
+
+.social {
+  text-decoration: none;
+}
+
+.pageSection {
+  display: flex;
+  justify-content: center;
+}
+
+.headingColorTop {
+  color: #ffffff;
+  background-color: #4aaaa5;
+}
+
+#top {
+  border-bottom-style: solid;
+  border-width: 3px;
+  background: #FFFFFF;
+  border-color: #cccccc;
+  color: #4aaaa5;
+  height: 70px;
+  width: 1020px;
+}
+
+#middle {
+  background-image: url("../images/textureBackground.jpg");
+  padding: 60px;
+  width: 900px;
+}
+
+#bottom {
+  border-top: 8px;
+  border-color: #4aaaa5;
+  border-style: solid;
+  background-color: #666666;
+  padding-bottom: 40px;
+  width: 1020px;
+}
+
+#footer {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 30px;
+}
+
+#aboutMe {
+  width: 650px;
+  height: auto;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cccccc;
+  padding: 30px;
+  float: right;
+}
+
+#contact {
+  width: 650px;
+  height: auto;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cccccc;
+  padding: 30px;
+  float: right;
+}
+
+#portfolio {
+  width: 650px;
+  height: auto;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cccccc;
+  padding: 30px;
+  float: right;
+}
+
+#connectWithMe {
+  width: 270px;
+  height: 100px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cccccc;
+  text-align: center;
+  color: #4aaaa5;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 30px;
+
+}
+
+#headingMiddle {
+    color: #4AAAA5;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+#headingConnectWithMe {
+  margin-bottom: 30px;
+}
+
+#nameHeadline {
+  padding: 20px;
+  width: 250px;
+  text-align: center;
+  margin-left: 60px;
+  float: left;
+}
+
+img#profilePic {
+    float: left;
+    margin-right: 24px;
+}
